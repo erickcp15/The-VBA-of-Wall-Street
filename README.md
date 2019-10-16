@@ -25,12 +25,12 @@ Use VBA scripting to analyze real stock market data.
 * Make the appropriate adjustments to the script that will allow it to run on every worksheet just by running it once.
 
 **2014 Stock Market Analysis Screenshot:** 
-![](Screen Shot 2019-06-09 at 3.19.38 PM.png)
+![](Images/2014.png)
 
 
 **2015 Stock Market Analysis Screenshot:** 
-![](Screen Shot 2019-06-09 at 3.19.35 PM.png)
+![](Images/2015.png)
 
 
 **2016 Stock Market Analysis Screenshot:** 
-![](Screen Shot 2019-06-09 at 3.19.27 PM.png)
+![](Images/2016.png)
